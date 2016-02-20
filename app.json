@@ -1,0 +1,7 @@
+{
+  "name": "Room Selection",
+  "description": "Senior project of The Cool B's",
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/dotnet-buildpack.git"
+  }
+}
