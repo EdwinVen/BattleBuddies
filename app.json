@@ -1,7 +1,7 @@
 {
-  "name": "Room Selection",
+  "name": "Battle Buddies",
   "description": "Senior project of The Cool B's",
   "env": {
-    "BUILDPACK_URL": "https://github.com/heroku/dotnet-buildpack.git"
+    "BUILDPACK_URL": "https://github.com/codnee/dotnet-buildpack.git"
   }
 }
